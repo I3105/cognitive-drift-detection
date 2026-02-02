@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.express as px
+import plotly.express as plt
 from sklearn.preprocessing import StandardScaler
 
 st.set_page_config(page_title="Cognitive Drift Detection", layout="wide")
